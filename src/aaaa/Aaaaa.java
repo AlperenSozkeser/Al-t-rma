@@ -6,6 +6,9 @@ public class Aaaaa {
 		System.out.println("alıştırmalara devam");
 		System.out.println("aslında oradaki isimle alakası yok istediğini koyabilrisnn");
 		System.out.println("Uzak sunucudan degisiklikleri aldik");
+		System.out.println("alıştırmalara devam");
+		System.out.println("aslında oradaki isimle alakası yok istediğini koyabilrisnn");
+		System.out.println("Uzak sunucudan degisiklikleri aldik");
 		
 	}
 
