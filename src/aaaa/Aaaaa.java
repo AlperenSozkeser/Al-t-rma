@@ -3,8 +3,10 @@ package aaaa;
 public class Aaaaa {
 
 	public static void main(String[] args) {
-		System.out.println("alıştırmalara devam");
-		System.out.println("aslında oradaki isimle alakası yok istediğini koyabilrisnn");
+		System.out.println("alÄ±ÅŸtÄ±rmalara devam");
+		System.out.println("aslÄ±nda oradaki isimle alakasÄ± yok istediÄŸini koyabilrisnn");
+		SystemÃ§out.println("Uzak sunucudan deÄŸiiklikleri aldÄ±k");
+		
 	}
 
 }
